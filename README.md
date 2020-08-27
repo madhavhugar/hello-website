@@ -1,6 +1,6 @@
-## Hello-Website: a website uptime tracker
+## hello-website: a website uptime tracker
 
-A website uptime and response time tracker. A simple application that takes in a web url and publishes the statistics to kafka topic, which is then consumed and persisted to a relational database (postresql).
+A given url uptime and response time tracker. A simple application that takes in a web url and publishes the statistics to kafka topic, which is then consumed and persisted to a relational database (postresql).
 
 
 ## Architecture
