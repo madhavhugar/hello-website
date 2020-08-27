@@ -1,0 +1,15 @@
+.vscode
+
+.pytest_cache/
+
+__pycache__
+
+certs/
+
+.env
+
+dist/
+
+build/
+
+*.egg-info
